@@ -33,6 +33,11 @@
       <groupId>com.opencsv</groupId>
       <version>5.1</version>
     </dependency>
+    <dependency>
+      <artifactId>slf4j-simple</artifactId>
+      <groupId>org.slf4j</groupId>
+      <version>1.7.30</version>
+    </dependency>
 
   </dependencies>
   <groupId>org.example</groupId>
